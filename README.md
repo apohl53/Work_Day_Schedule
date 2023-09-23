@@ -26,13 +26,13 @@ This planner tells you the time and helps you enter and save data for the differ
 
 # Built With
 
-HTML
-CSS
-JavaScript
-BootStrap
-jQuery
-moments.js
-assistance by Rutgers Xpert learning assistant
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- Bootstrap
+- moments.js
+- assistance by Rutgers Xpert learning assistant
 
 # Installation:
 
@@ -40,5 +40,4 @@ There is no installation required for this website. Simply click on the link bel
 
 https://apohl53.github.io/Work_Day_Schedule/
 
-Assets/Screen Shot 2023-09-22 at 9.36.41 PM.png
-Assets/Screen Shot 2023-09-22 at 9.36.48 PM.png
+https://github.com/apohl53/Work_Day_Schedule.git
