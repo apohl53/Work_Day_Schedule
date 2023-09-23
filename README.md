@@ -40,5 +40,5 @@ There is no installation required for this website. Simply click on the link bel
 
 https://apohl53.github.io/Work_Day_Schedule/
 
-./Assets/Screen Shot 2023-09-22 at 9.36.41 PM.png
-./Assets/Screen Shot 2023-09-22 at 9.36.48 PM.png
+Assets/Screen Shot 2023-09-22 at 9.36.41 PM.png
+Assets/Screen Shot 2023-09-22 at 9.36.48 PM.png
